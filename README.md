@@ -1,5 +1,5 @@
 # OPERATING SYSTEMS ASSIGNMENT 1
-# Vyron-Georgios Anemogiannis 1115202000008
+# Vyron-Georgios Anemogiannis 
 
 This is the first assignment of the operating systems cource, writen in C. 
 
